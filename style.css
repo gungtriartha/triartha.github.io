@@ -1,0 +1,22 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero{
+    background: url(https://doktersehat.com/wp-content/uploads/2019/07/obat-herbal-doktersehat.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+.main-biru{
+    background-color: darkgrey;
+    color: black;
+}
+
+.contact{
+    background: url(https://4.bp.blogspot.com/-hBpChKKZQyM/V4PIqMhuoaI/AAAAAAAAAE8/w3d5yjdF_2ssg7AOJ-UvnHpvjIl6zlpjwCLcB/s1600/menyingkap%2Brahasia%2Btanaman%2Bobat.png);
+}
